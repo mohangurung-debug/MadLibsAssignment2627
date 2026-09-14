@@ -22,14 +22,16 @@
 
 # THIS IS WHERE YOU CODE
 print("Hello, Student")
+print("Before we get started please state your name")
+n1 = input()
 
-print("Give me a verb")
-pv1= input("")
+print("Ok" ,n1,"lets get started. Give me a verb ")
+pv1= input()
 
-print("awsome, now give me an adjective")
+print("awsome, what is your favorite animal?")
 pv2 = input("")
 
 print("Perfect, Now give me a noun")
 pv3 = input("")
 
-print("I saw a", pv2, pv1, "while trying to", pv3)
+print("I saw a", pv2, pv3, "while trying to", pv1)
