@@ -21,3 +21,13 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
+print("Hello, Student")
+
+print("Give me a verb")
+pv1= input("")
+
+print("awsome, now give me an adjective")
+pv2 = input("")
+
+print("Perfect, Now give me a noun")
+pv3 = input("")
