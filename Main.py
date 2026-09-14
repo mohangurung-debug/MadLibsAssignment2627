@@ -31,3 +31,5 @@ pv2 = input("")
 
 print("Perfect, Now give me a noun")
 pv3 = input("")
+
+print("I saw a", pv2, pv1, "while trying to", pv3)
