@@ -25,13 +25,22 @@ print("Hello, Student")
 print("Before we get started please state your name")
 n1 = input()
 
-print("Ok" ,n1,"lets get started. Give me a verb ")
+print("Ok," ,n1,"What is your favorite food?")
 pv1= input()
 
 print("awsome, what is your favorite animal?")
-pv2 = input("")
+pv2 = input()
 
-print("Perfect, Now give me a noun")
-pv3 = input("")
+print("Perfect, Now give me a adjective. For example tall, big, muscular, annoying etc.")
+pv3 = input()
 
-print("I saw a", pv2, pv3, "while trying to", pv1)
+print("Now,tell me what your fruit is")
+pv4= input()
+
+print("Nicely done, now give me a verb. For example running,sleeping, jumping etc.")
+pv6= input()
+
+print("lastly give me a verb from past tense(ending in -ed)")
+pv5 = input()
+
+print("as I was eating" ,pv1, ".I saw a" ,pv2, "When i saw the" ,pv2, "I began to freak out as the" ,pv2, "was so" , pv3, "then I reached in my bag and pulled out my" ,pv4,"as I gave the" , pv4, "to the" ,pv2, " As I fed the wild animal " ,pv5,"then the" ,pv2, "started" ,pv6,)
